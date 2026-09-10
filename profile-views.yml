@@ -1,0 +1,24 @@
+name: Update Profile Views Badge
+
+on:
+  schedule:
+    - cron: "0 6,14,22 * * *"   # günde 3 kez çalışır (06:00 / 14:00 / 22:00 UTC)
+  workflow_dispatch:            # manuel tetikleme imkanı
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate views badge from official GitHub traffic data
+        uses: gayanvoice/github-profile-views-counter@v1.6.0
+        with:
+          username: devraneroglu
+          label: profile views
+          color: 2e7d32
+          style: flat
