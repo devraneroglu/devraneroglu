@@ -90,6 +90,6 @@ enterprise:   Logo Tiger 3 ERP, ERP Integrations, L-Objects
 
 <br>
 
-<sub><img src="https://komarev.com/ghpvc/?username=devraneroglu&style=flat&color=2E7D32&label=profile+views" alt="profile views" height="18"></sub>
+<sub><img src="github-profile-views-counter.svg" alt="profile views" height="18"></sub>
 
 </div>
