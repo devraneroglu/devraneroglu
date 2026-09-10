@@ -84,8 +84,12 @@ enterprise:   Logo Tiger 3 ERP, ERP Integrations, L-Objects
 
 <div align="center">
 
-`GitHub` [devraneroglu](https://github.com/devraneroglu) · `LinkedIn` [devraneroglu](https://www.linkedin.com/in/devraneroglu) · `Mail` devraneroglu@gmail.com
+`LinkedIn` [devraneroglu](https://www.linkedin.com/in/devraneroglu) · `Mail` devraneroglu@gmail.com
 
 <sub>Istanbul, Turkey</sub>
+
+<br>
+
+<sub><img src="https://komarev.com/ghpvc/?username=devraneroglu&style=flat&color=2E7D32&label=profile+views" alt="profile views" height="18"></sub>
 
 </div>
